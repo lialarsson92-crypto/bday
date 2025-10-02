@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Lateef&family=Reem+Kufi&display=swap');
+
+h1 {
+    color: hotpink;
+    font-size: xx-large;
+    font-family: 'Lateef', 'Amiri', 'Reem Kufi', 'Scheherazade', 'Cairo', 'Noto Naskh Arabic', 'Tahoma', 'Arial', sans-serif;
+    font-weight: bold; /* Use font-weight instead of font-style for bold */
+}
+p {
+    color: greenyellow;
+    font-size: xx-large;
+    font-family: 'Lateef', 'Amiri', 'Reem Kufi', 'Scheherazade', 'Cairo', 'Noto Naskh Arabic', 'Tahoma', 'Arial', sans-serif;
+    font-style: italic;
+}
+body {
+    background-image: url(images/lotusfrill.jpg);
+}
